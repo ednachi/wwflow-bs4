@@ -6,9 +6,9 @@ var gulp = require('gulp'),
     del = require('del');
 
 var paths = {
-  sassPath:   './res/sass',
-  jsPath:     './res/js',
-  nodeModules: './node_modules'
+  sassPath:   'res/sass',
+  jsPath:     'res/js',
+  nodeModules: 'node_modules'
 }
 
 
